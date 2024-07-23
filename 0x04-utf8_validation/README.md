@@ -38,7 +38,7 @@ The function 'validUTF8' iterates through the data list and checks if the bytes 
 ## Usage
 
 To test the function, run the '0-main.py' script:
-      python3 0-main.py
+        python3 0-main.py
 This script will execute the validUTF8 function with predefined test cases and output the results.
 
 ## Example
